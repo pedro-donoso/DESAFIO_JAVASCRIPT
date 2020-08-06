@@ -1,4 +1,4 @@
-https://pedro-donoso.github.io/DESAFIO_JAVASCRIPT/
+https://pedro-donoso.github.io/desafio_javascript/
 
 # desafio_javascript
  Arrays y objetos - Desafío - Uso Básico de Arrays y Objetos
