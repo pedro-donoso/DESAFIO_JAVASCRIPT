@@ -1,6 +1,6 @@
 https://pedro-donoso.github.io/DESAFIO_JAVASCRIPT/
 
-# DESAFIO_JAVASCRIPT
+# desafio_javascript
  Arrays y objetos - Desafío - Uso Básico de Arrays y Objetos
 evaluacion: 8
 feedback profesor: "Hola Pedro
